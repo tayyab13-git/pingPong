@@ -1,3 +1,2 @@
-# pingPong
-# pingPong
-# pingPong
+Game is made using Sprite Kit 
+
